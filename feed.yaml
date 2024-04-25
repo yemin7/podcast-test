@@ -1,11 +1,12 @@
-title: The Future in Tech
-subtitle: Powered by LinkedIn Learning
-author: Ray Villalobos
+title: Podcast App
+subtitle: GitHub Actions
+author: Ye Min
 description: Conversations with leaders building next generation techology tools.
-image: /images/artwork.jpg
+image: /images/yellocat.jpeg
 language: en-us
 category: Technology
 format: audio/mpeg
+link: https://yemin7.github.io/podcast-test
 item:
   - title: EP01-What's Happening in 2023
     description: Ray Villalobos and Content Managers Natalie Pao and Simon St. Laurent discuss what 2023 holds for the future in technology.
